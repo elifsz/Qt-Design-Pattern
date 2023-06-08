@@ -2,8 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "create_task_widget.h"
-#include "task_information_widget.h"
+#include "view/create_task_widget.h"
+#include "view/task_information_widget.h"
 
 class MainWindow : public QMainWindow
 {
